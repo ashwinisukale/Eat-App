@@ -36,7 +36,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgres
 * Request Headers -> Content-Type -> application/json
 * Request Body ->
 ```
-	{
+    {
       "email": "admin@gmail.com",
       "password": "123456"
     }
@@ -76,7 +76,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgres
 }
 ```
 
-## Reserrvation
+## Reservation
 * Request url -> POST  localhost:3000/api/v1/restaurants/1/reservations
 * Request Headers -> Content-Type -> application/json, Authorization -> eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE2
 * Request Body ->
