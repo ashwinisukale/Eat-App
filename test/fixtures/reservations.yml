@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: false
+  start_time: 2021-05-23 18:06:40
+  covers: 1
+  notes: MyText
+  user: one
+  restaurant: one
+
+two:
+  status: false
+  start_time: 2021-05-23 18:06:40
+  covers: 1
+  notes: MyText
+  user: two
+  restaurant: two
